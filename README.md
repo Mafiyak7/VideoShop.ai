@@ -1,2 +1,2 @@
 # VideoShop_AI
-#hackthon
+
